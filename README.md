@@ -1,3 +1,3 @@
 This is my first website
 
-My namne is Malin. 
+My name is Malin. 
